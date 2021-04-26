@@ -12,7 +12,7 @@ This program is licensed under open source
 repository https://github.com/Robert100-Case/README_Generator
 
 link to video run through of app
-https://drive.google.com/file/d/1JaXnJ099HmYH9sILeJW_k7qHoyy_4zVa/view
+https://drive.google.com/file/d/1rZutABI6DGQRfioZCilQKQrpPeOCAUxe/view
 
 Screenshots
 <img src="Generator_Screenshot1.png">
