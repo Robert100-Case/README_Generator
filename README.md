@@ -1,5 +1,7 @@
 # README_Generator
-This server side command line program generates a README file based on user input. 
+This server side command line program generates a README file based on user input. I tried to capture audio and video of the program working but my laptop audio
+stopped working and no amount of troubleshooting such as asking a BCS tutor for help and reinstalling screencastify or using screencast-o-matic(different app)
+would work.
 
 # Usage
 Using node.js it acts simple questions and then creates a file.
