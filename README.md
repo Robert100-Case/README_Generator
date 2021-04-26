@@ -8,3 +8,8 @@ Using node.js it acts simple questions and then creates a file.
 This program is licensed under open source
 
 repository https://github.com/Robert100-Case/README_Generator
+
+Screenshots
+<img src="Generator_Screenshot1.png">
+<img src="Generator_Screenshot2.png">
+
