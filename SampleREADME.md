@@ -1,4 +1,4 @@
-NAME 
+#NAME 
 generator
 
 INSTALLATION 
